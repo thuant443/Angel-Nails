@@ -59,10 +59,7 @@ class about extends Component {
                   </svg>
                   <h2>Joy</h2>
                   <p>
-                    Donec sed odio dui. Etiam porta sem malesuada magna mollis
-                    euismod. Nullam id dolor id nibh ultricies vehicula ut id
-                    elit. Morbi leo risus, porta ac consectetur ac, vestibulum
-                    at eros. Praesent commodo cursus magna.
+                 This is Joy, loving and sweet nail technician
                   </p>
                   <p>
                    
@@ -136,10 +133,7 @@ class about extends Component {
                     <span className="text-muted">It’ll blow your mind.</span>
                   </h2>
                   <p className="lead">
-                    Donec ullamcorper nulla non metus auctor fringilla.
-                    Vestibulum id ligula porta felis euismod semper. Praesent
-                    commodo cursus magna, vel scelerisque nisl consectetur.
-                    Fusce dapibus, tellus ac cursus commodo.
+                  This is Joy
                   </p>
                 </div>
                 <div className="col-md-5">
